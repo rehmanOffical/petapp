@@ -1,0 +1,7 @@
+Django==4.1.13
+djangorestframework==3.13.1
+django-cors-headers
+requests
+pillow
+rest_framework_simplejwt
+djangorestframework-simplejwt
